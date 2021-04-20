@@ -1,0 +1,11 @@
+﻿pandas>=1.2.4
+yfinance>=0.1.59
+multitasking>=0.0.7
+lxml>=4.5.1
+numpy>=1.15
+idna>=2.5
+chardet>=3.0.2
+statsmodels>=0.12
+patsy>=0.5
+matplotlib
+scipy
